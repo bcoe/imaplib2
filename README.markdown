@@ -1,6 +1,11 @@
 Threaded Python IMAP4 client
 ============================
 
+Deprecated
+==========
+
+Repo moved to https://github.com/imaplib2/imaplib2
+
 About
 -----
 
